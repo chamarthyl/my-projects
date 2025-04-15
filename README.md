@@ -19,7 +19,6 @@ My work spans building interactive dashboards, designing automated testing frame
 ### 🎓 Education & Certifications
 - 🎓 **Master’s in Electronics and Instrumentation**
 - 🧾 **Certified Scrum Master (CSM)**
-- 🧾 **UI Path (Automation)**
 - 🧾 **EMC Proven Professional (ISM V2)**
 - 🧾 **SCJP (Sun Certified Java Programmer)**
 
