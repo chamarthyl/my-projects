@@ -1,4 +1,4 @@
-## Hi👋!My name is Lavanya Chamarthy
+##
 # 👋 Hi, I'm Lavanya Chamarthy
 
 🎯 **Results-oriented Data Analyst | QA Engineer | Automation Enthusiast | Certified Scrum Master**
